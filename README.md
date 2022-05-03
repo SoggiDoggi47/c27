@@ -1,2 +1,1 @@
-# c27
-brghnjmku,l
+# C23 sol
